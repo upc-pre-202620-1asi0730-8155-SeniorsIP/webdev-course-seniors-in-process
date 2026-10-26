@@ -35,9 +35,9 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>`, `<p>`, `<ul>`, `<ol>`, `<li>`, `<img>` (con atributos `src` y `alt`) y `<a>` (con `href`).
 * **Práctica**: [Clic para programar en CodePen](https://codepen.io/tu-pen-leccion-2) **¡Comienza al instante!**
 
-### Lección 3: Introducción a CSS (12 minutos)
+### Lección 3: Introducción a CSS (10 minutos)
 * **Descripción**: Transforma el aspecto visual de tu HTML aplicando selectores de etiqueta, clase e ID junto con propiedades de color, fondo y tipografía.
-* **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=enlace-leccion-3)
+* **Enlace**: [Ver la lección en YouTube](https://youtu.be/4JRSd4jIzak)
 * **Consejos clave**: Usa selectores como `body`, `.destacado` o `#titulo-principal` y propiedades como `background-color`, `color`, `font-family` y `font-size`.
 * **Práctica**: [Aplicar estilo con un clic en CodePen](https://codepen.io/tu-pen-leccion-3) **¡No es necesario registrarse!**
 
