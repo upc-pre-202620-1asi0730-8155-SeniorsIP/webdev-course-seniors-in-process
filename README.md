@@ -49,9 +49,9 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 
 ### Lección 5: Creación de una Página Web Básica y Consejos para Principiantes (12 minutos)
 * **Descripción**: Combina todo lo aprendido en HTML y CSS para construir una página web completa con tarjeta de perfil y entrada de blog, además de conocer cómo evitar los errores más comunes al programar.
-* **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=enlace-leccion-5)
+* **Enlace**: [Ver la lección en YouTube](https://youtu.be/rc3H-M85Kdo)
 * **Consejos clave**: Verifica que todas las etiquetas cierren correctamente, no olvides el punto y coma (`;`) en CSS, depura tu código y consulta la documentación de MDN.
-* **Proyecto Final**: [Crea tu Página Completa en CodePen](https://codepen.io/tu-pen-leccion-5) **¡Guarda y comparte!**
+* **Proyecto Final**: [Crea tu Página Completa en CodePen](https://codepen.io/proyecto_aplicacion_web/pen/dPvKYvb) **¡Guarda y comparte!**
 
 ---
 
@@ -66,8 +66,7 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 | **2** | Elementos Comunes, Listas e Imágenes | [CodePen Lección 2](https://codepen.io/Ana-Camila-the-solid/pen/ogZPNEm) | [Inicio](./starter-files/lesson-02-starter.html) / [Resuelto](./completed-examples/lesson-02-completed.html) |
 | **3** | Introducción a CSS, Colores y Fuentes | [CodePen Lección 3](https://codepen.io/tu-pen-leccion-3) | [Inicio](./starter-files/lesson-03-starter.html) / [Resuelto](./completed-examples/lesson-03-completed.html) |
 | **4** | Estilo Simple, Centrado y Bordes | [CodePen Lección 4](https://codepen.io/tu-pen-leccion-4) | [Inicio](./starter-files/lesson-04-starter.html) / [Resuelto](./completed-examples/lesson-04-completed.html) |
-| **5** | Página de Perfil, Blog y Consejos | [CodePen Lección 5](https://codepen.io/tu-pen-leccion-5) | [Inicio](./starter-files/lesson-05-starter.html) / [Resuelto](./completed-examples/lesson-05-completed.html) |
-
+| **5** | Página de Perfil, Blog y Consejos | [CodePen Lección 5](https://codepen.io/proyecto_aplicacion_web/pen/dPvKYvb) | [Inicio](./starter-files/lesson-05-starter.html) / [Resuelto](./completed-examples/lesson-05-completed.html) |
 
 **¡Gracias por completar el curso!**
 
