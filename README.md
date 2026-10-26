@@ -23,35 +23,37 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es el desarrollo web y Estructura HTML Básica? (12 minutos)
+### Lección 1: ¿Qué es el desarrollo web y Estructura HTML Básica? 
 * **Descripción**: Aprende de qué están hechos los sitios web, cómo trabajan juntos HTML y CSS, y construye tu primera estructura básica con etiquetas, elementos y atributos.
-* **Enlace**: 
+* **Enlace**: https://youtu.be/Q0kvUwvImGk?si=E5ZMuHrf7JVWqRTr
 * **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
-* **Empieza a programar**:  **¡No necesitas registrarte!**
+* **Empieza a programar**: https://codepen.io/dosullz/pen/QNxdzd **¡No necesitas registrarte!**
+* **Practica**: https://short.do/bwG2zY
 
-### Lección 2: Elementos HTML Comunes (12 minutos)
+### Lección 2: Elementos HTML Comunes 
 * **Descripción**: Enriquece el contenido de tu página agregando jerarquías de encabezados, párrafos, listas ordenadas y desordenadas, imágenes y enlaces interactivos.
 * **Enlace**: https://youtu.be/zC5i95C1s7E
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>`, `<p>`, `<ul>`, `<ol>`, `<li>`, `<img>` (con atributos `src` y `alt`) y `<a>` (con `href`).
-* **Práctica**: https://codepen.io/Ana-Camila-the-solid/pen/ogZPNEm **¡Comienza al instante!**
+* **Práctica**: https://short.do/3ABG8L **¡Comienza al instante!**
 
-### Lección 3: Introducción a CSS (10 minutos)
+### Lección 3: Introducción a CSS
 * **Descripción**: Transforma el aspecto visual de tu HTML aplicando selectores de etiqueta, clase e ID junto con propiedades de color, fondo y tipografía.
-* **Enlace**: [Ver la lección en YouTube](https://youtu.be/4JRSd4jIzak)
+* **Enlace**: https://youtu.be/4JRSd4jIzak
 * **Consejos clave**: Usa selectores como `body`, `.destacado` o `#titulo-principal` y propiedades como `background-color`, `color`, `font-family` y `font-size`.
-* **Práctica**: [Aplicar estilo con un clic en CodePen](https://codepen.io/tu-pen-leccion-3) **¡No es necesario registrarse!**
+* **Práctica**: https://tinyurl.com/347d6mb9 **¡No es necesario registrarse!**
 
-### Lección 4: Estilo Simple y Modelo de Caja (12 minutos)
+### Lección 4: Estilo Simple y Modelo de Caja 
+
 * **Descripción**: Aprende a agrupar elementos en tarjetas, centrar contenido en la pantalla y añadir bordes, esquinas redondeadas, márgenes y rellenos.
-* **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=enlace-leccion-4)
+* **Enlace**: https://youtu.be/JyH-TPloblM
 * **Consejos clave**: Usa `<div>`, `margin: 0 auto`, `text-align: center`, `padding`, `border` y `border-radius`.
-* **Práctica**: [Diseña tu tarjeta en CodePen](https://codepen.io/tu-pen-leccion-4) **¡No es necesario registrarse!**
+* **Práctica**: https://shorturl.at/EJzYj **¡No es necesario registrarse!**
 
-### Lección 5: Creación de una Página Web Básica y Consejos para Principiantes (12 minutos)
+### Lección 5: Creación de una Página Web Básica y Consejos para Principiantes
 * **Descripción**: Combina todo lo aprendido en HTML y CSS para construir una página web completa con tarjeta de perfil y entrada de blog, además de conocer cómo evitar los errores más comunes al programar.
-* **Enlace**: [Ver la lección en YouTube](https://youtu.be/rc3H-M85Kdo)
+* **Enlace**: https://youtu.be/rc3H-M85Kdo
 * **Consejos clave**: Verifica que todas las etiquetas cierren correctamente, no olvides el punto y coma (`;`) en CSS, depura tu código y consulta la documentación de MDN.
-* **Proyecto Final**: [Crea tu Página Completa en CodePen](https://codepen.io/proyecto_aplicacion_web/pen/dPvKYvb) **¡Guarda y comparte!**
+* **Proyecto Final**: https://short.do/C1_5ua **¡Guarda y comparte!**
 
 ---
 
@@ -60,13 +62,13 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 
 ### Todas las Actividades Prácticas
 
-| Lección # | Actividad | Empezar a Programar | Archivos en el Repositorio |
-| :--- | :--- | :--- | :--- |
-| **1** | Explorar Sitios Web y Estructura HTML | [CodePen Lección 1](https://codepen.io/tu-pen-leccion-1) | [Inicio](./starter-files/lesson-01-starter.html) / [Resuelto](./completed-examples/lesson-01-completed.html) |
-| **2** | Elementos Comunes, Listas e Imágenes | [CodePen Lección 2](https://codepen.io/Ana-Camila-the-solid/pen/ogZPNEm) | [Inicio](./starter-files/lesson-02-starter.html) / [Resuelto](./completed-examples/lesson-02-completed.html) |
-| **3** | Introducción a CSS, Colores y Fuentes | [CodePen Lección 3](https://codepen.io/tu-pen-leccion-3) | [Inicio](./starter-files/lesson-03-starter.html) / [Resuelto](./completed-examples/lesson-03-completed.html) |
-| **4** | Estilo Simple, Centrado y Bordes | [CodePen Lección 4](https://codepen.io/tu-pen-leccion-4) | [Inicio](./starter-files/lesson-04-starter.html) / [Resuelto](./completed-examples/lesson-04-completed.html) |
-| **5** | Página de Perfil, Blog y Consejos | [CodePen Lección 5](https://codepen.io/proyecto_aplicacion_web/pen/dPvKYvb) | [Inicio](./starter-files/lesson-05-starter.html) / [Resuelto](./completed-examples/lesson-05-completed.html) |
+| Lección # | Actividad | Empezar a Programar|
+| :--- | :--- |:------------------------------------|
+| **1** | Explorar Sitios Web y Estructura HTML | https://short.do/bwG2zY | 
+| **2** | Elementos Comunes, Listas e Imágenes | https://short.do/3ABG8L | 
+| **3** | Introducción a CSS, Colores y Fuentes | https://tinyurl.com/347d6mb9 |
+| **4** | Estilo Simple, Centrado y Bordes | https://shorturl.at/EJzYj | 
+| **5** | Página de Perfil, Blog y Consejos | https://short.do/C1_5ua  |
 
 **¡Gracias por completar el curso!**
 
