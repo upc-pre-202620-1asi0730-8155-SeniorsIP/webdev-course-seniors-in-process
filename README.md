@@ -31,9 +31,9 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 
 ### Lección 2: Elementos HTML Comunes (12 minutos)
 * **Descripción**: Enriquece el contenido de tu página agregando jerarquías de encabezados, párrafos, listas ordenadas y desordenadas, imágenes y enlaces interactivos.
-* **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=enlace-leccion-2)
+* **Enlace**: https://youtu.be/zC5i95C1s7E
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>`, `<p>`, `<ul>`, `<ol>`, `<li>`, `<img>` (con atributos `src` y `alt`) y `<a>` (con `href`).
-* **Práctica**: [Clic para programar en CodePen](https://codepen.io/tu-pen-leccion-2) **¡Comienza al instante!**
+* **Práctica**: https://codepen.io/Ana-Camila-the-solid/pen/ogZPNEm **¡Comienza al instante!**
 
 ### Lección 3: Introducción a CSS (10 minutos)
 * **Descripción**: Transforma el aspecto visual de tu HTML aplicando selectores de etiqueta, clase e ID junto con propiedades de color, fondo y tipografía.
@@ -63,7 +63,7 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 | Lección # | Actividad | Empezar a Programar | Archivos en el Repositorio |
 | :--- | :--- | :--- | :--- |
 | **1** | Explorar Sitios Web y Estructura HTML | [CodePen Lección 1](https://codepen.io/tu-pen-leccion-1) | [Inicio](./starter-files/lesson-01-starter.html) / [Resuelto](./completed-examples/lesson-01-completed.html) |
-| **2** | Elementos Comunes, Listas e Imágenes | [CodePen Lección 2](https://codepen.io/tu-pen-leccion-2) | [Inicio](./starter-files/lesson-02-starter.html) / [Resuelto](./completed-examples/lesson-02-completed.html) |
+| **2** | Elementos Comunes, Listas e Imágenes | [CodePen Lección 2](https://codepen.io/Ana-Camila-the-solid/pen/ogZPNEm) | [Inicio](./starter-files/lesson-02-starter.html) / [Resuelto](./completed-examples/lesson-02-completed.html) |
 | **3** | Introducción a CSS, Colores y Fuentes | [CodePen Lección 3](https://codepen.io/tu-pen-leccion-3) | [Inicio](./starter-files/lesson-03-starter.html) / [Resuelto](./completed-examples/lesson-03-completed.html) |
 | **4** | Estilo Simple, Centrado y Bordes | [CodePen Lección 4](https://codepen.io/tu-pen-leccion-4) | [Inicio](./starter-files/lesson-04-starter.html) / [Resuelto](./completed-examples/lesson-04-completed.html) |
 | **5** | Página de Perfil, Blog y Consejos | [CodePen Lección 5](https://codepen.io/tu-pen-leccion-5) | [Inicio](./starter-files/lesson-05-starter.html) / [Resuelto](./completed-examples/lesson-05-completed.html) |
