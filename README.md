@@ -25,33 +25,33 @@ Si deseas explorar los archivos alojados en este repositorio de GitHub, encontra
 
 ### Lección 1: ¿Qué es el desarrollo web y Estructura HTML Básica? 
 * **Descripción**: Aprende de qué están hechos los sitios web, cómo trabajan juntos HTML y CSS, y construye tu primera estructura básica con etiquetas, elementos y atributos.
-* **Enlace**: https://youtu.be/Q0kvUwvImGk?si=E5ZMuHrf7JVWqRTr
+* **Enlace**: https://youtu.be/ez8m8qsCSyE
 * **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
 * **Empieza a programar**: https://codepen.io/dosullz/pen/QNxdzd **¡No necesitas registrarte!**
 * **Practica**: https://short.do/bwG2zY
 
 ### Lección 2: Elementos HTML Comunes 
 * **Descripción**: Enriquece el contenido de tu página agregando jerarquías de encabezados, párrafos, listas ordenadas y desordenadas, imágenes y enlaces interactivos.
-* **Enlace**: https://youtu.be/zC5i95C1s7E
+* **Enlace**: https://youtu.be/NG6LkyaWwjk
 * **Consejos clave**: Usa las etiquetas `<h1>` a `<h6>`, `<p>`, `<ul>`, `<ol>`, `<li>`, `<img>` (con atributos `src` y `alt`) y `<a>` (con `href`).
 * **Práctica**: https://short.do/3ABG8L **¡Comienza al instante!**
 
 ### Lección 3: Introducción a CSS
 * **Descripción**: Transforma el aspecto visual de tu HTML aplicando selectores de etiqueta, clase e ID junto con propiedades de color, fondo y tipografía.
-* **Enlace**: https://youtu.be/4JRSd4jIzak
+* **Enlace**: https://youtu.be/jbTvBDWaZEI
 * **Consejos clave**: Usa selectores como `body`, `.destacado` o `#titulo-principal` y propiedades como `background-color`, `color`, `font-family` y `font-size`.
 * **Práctica**: https://tinyurl.com/347d6mb9 **¡No es necesario registrarse!**
 
 ### Lección 4: Estilo Simple y Modelo de Caja 
 
 * **Descripción**: Aprende a agrupar elementos en tarjetas, centrar contenido en la pantalla y añadir bordes, esquinas redondeadas, márgenes y rellenos.
-* **Enlace**: https://youtu.be/JyH-TPloblM
+* **Enlace**: https://youtu.be/NUlOEJ-8Aqk
 * **Consejos clave**: Usa `<div>`, `margin: 0 auto`, `text-align: center`, `padding`, `border` y `border-radius`.
 * **Práctica**: https://shorturl.at/EJzYj **¡No es necesario registrarse!**
 
 ### Lección 5: Creación de una Página Web Básica y Consejos para Principiantes
 * **Descripción**: Combina todo lo aprendido en HTML y CSS para construir una página web completa con tarjeta de perfil y entrada de blog, además de conocer cómo evitar los errores más comunes al programar.
-* **Enlace**: https://youtu.be/rc3H-M85Kdo
+* **Enlace**: https://youtu.be/WbZbug8NRCs
 * **Consejos clave**: Verifica que todas las etiquetas cierren correctamente, no olvides el punto y coma (`;`) en CSS, depura tu código y consulta la documentación de MDN.
 * **Proyecto Final**: https://short.do/C1_5ua **¡Guarda y comparte!**
 
