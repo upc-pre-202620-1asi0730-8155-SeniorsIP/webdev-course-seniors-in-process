@@ -29,3 +29,10 @@ h2 {
   color: #a6e3a1;
   font-size: 18px;
 }
+
+/* Reto */
+.mi-tarjeta {
+  background-color: #45475a;
+  padding: 15px;
+  border-radius: 8px;
+}
