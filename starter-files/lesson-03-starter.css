@@ -1,0 +1,38 @@
+
+/* 1. Selector de etiqueta: aplica a todo el cuerpo de la página */
+
+body {
+  background-color: #1e1e2e; 
+  color: #cdd6f4;            
+  font-family: 'Segoe UI', Tahoma, sans-serif; 
+  line-height: 1.6;         
+}
+
+/* 2. Selector de ID (#): aplica a un elemento único */
+
+#titulo-principal {
+  color: #89b4fa;
+  font-size: 36px;
+}
+
+/* 3. Selector de etiqueta para subtítulos */
+
+h2 {
+  color: #f9e2af;
+  font-size: 24px;
+}
+
+/* 4. Selector de Clase (.): aplica a cualquier elemento con class="destacado" */
+
+.destacado {
+  background-color: #313244;
+  color: #a6e3a1;
+  font-size: 18px;
+}
+
+/* Reto */
+.mi-tarjeta {
+  background-color: #45475a;
+  padding: 15px;
+  border-radius: 8px;
+}
