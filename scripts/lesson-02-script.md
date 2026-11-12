@@ -10,7 +10,7 @@
 ## Estructura del Video
 
 ### Bloque 1: Jerarquía de Encabezados, Párrafos y Énfasis
-- **[En pantalla]:** Entorno de CodePen abierto con el proyecto de la lección anterior (estructura base de perfil personal). Vista dividida con el editor HTML a la izquierda y la vista previa en vivo a la derecha. Escritura en directo de las etiquetas `<h1>` a `<h6>`, `<p>` y `<strong>`.
+- **[En pantalla]:** En torno de CodePen abierto con el proyecto de la lección anterior (estructura base de perfil personal). Vista dividida con el editor HTML a la izquierda y la vista previa en vivo a la derecha. Escritura en directo de las etiquetas `<h1>` a `<h6>`, `<p>` y `<strong>`.
 - **[Texto de apoyo visual / Superposiciones]:** 
   * `<h1> a <h6> = Niveles de encabezado (Mayor a menor importancia)`
   * `<p> = Párrafo`
@@ -41,7 +41,7 @@
 ---
 
 ### Bloque 3: Imágenes y Enlaces (Hipervínculos)
-- **Tiempo estimado:** [00:06:00] – [00:09:30]
+- **Tiempo estimado:** 
 - **[En pantalla]:** Demostración en vivo insertando `<img>` con su `src` y `alt`. Se muestra la renderización inmediata de la foto. Posteriormente se redacta el hipervínculo con `<a>`, atributos `href` y `target="_blank"`, haciendo clic en el enlace para comprobar que abre la pestaña correspondiente.
 - **[Texto de apoyo visual / Superposiciones]:** 
   * `<img src="URL" alt="Descripción visual"> (Etiqueta sin cierre)`
@@ -82,44 +82,37 @@
 
 **Código de Demostración y Práctica (CodePen):**
 ```html
-<!DOCTYPE html>
-<html lang="es">
-  <head>
-    <meta charset="UTF-8">
-    <title>Mi Perfil Web - Lección 2</title>
-  </head>
-  <body>
     <!-- Encabezado principal y presentación -->
-    <h1>Mi Perfil Digital</h1>
-    <p>¡Hola! Soy estudiante y me encanta la <strong>tecnología</strong> y el desarrollo web.</p>
+<h1>Mi Perfil Digital</h1>
+<p>¡Hola! Soy estudiante y me encanta la <strong>tecnología</strong> y el desarrollo web.</p>
 
-    <!-- Sección de Pasatiempos (Lista Desordenada) -->
-    <h2>Mis Pasatiempos Favoritos</h2>
-    <ul>
-      <li>Programar páginas interactivas</li>
-      <li>Escuchar música</li>
-      <li>Aprender idiomas</li>
-      <!-- RETO 1: Agrega aquí un cuarto elemento <li> con tu hobby -->
-    </ul>
+<!-- Sección de Pasatiempos (Lista Desordenada) -->
+<h2>Mis Pasatiempos Favoritos</h2>
+<ul>
+  <li>Programar páginas interactivas</li>
+  <li>Escuchar música</li>
+  <li>Aprender idiomas</li>
+  <!-- RETO 1: Agrega aquí un cuarto elemento <li> con tu hobby -->
+</ul>
 
-    <!-- Sección de Ranking (Lista Ordenada) -->
-    <h2>Mi Top 3 de Videojuegos / Series</h2>
-    <ol>
-      <li>Hollow Knight</li>
-      <li>Minecraft</li>
-      <li>Portal 2</li>
-      <!-- RETO 2: Personaliza este Top 3 con tus favoritos -->
-    </ol>
+<!-- Sección de Ranking (Lista Ordenada) -->
+<h2>Mi Top 3 de Videojuegos / Series</h2>
+<ol>
+  <li>Hollow Knight</li>
+  <li>Minecraft</li>
+  <li>Portal 2</li>
+  <!-- RETO 2: Personaliza este Top 3 con tus favoritos -->
+</ol>
 
-    <!-- Sección Multimedia y Enlace Externo -->
-    <h2>Mi Imagen Favorita</h2>
-    <!-- RETO 3: Reemplaza el enlace de la imagen y actualiza el texto alternativo -->
-    <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=400&q=80" alt="Consola y mandos de videojuegos retro sobre un escritorio">
+<!-- Sección Multimedia y Enlace Externo -->
+<h2>Mi Imagen Favorita</h2>
+<!-- RETO 3: Reemplaza el enlace de la imagen y actualiza el texto alternativo -->
+<img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=400&q=80" alt="Consola y mandos de videojuegos retro sobre un escritorio">
 
-    <p>
-      Para aprender más sobre desarrollo, visita la 
-      <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">documentación oficial de MDN Web Docs</a>.
-    </p>
-  </body>
+<p>
+  Para aprender más sobre desarrollo, visita la
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">documentación oficial de MDN Web Docs</a>.
+</p>
+</body>
 </html>
 ```
