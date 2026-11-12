@@ -9,7 +9,7 @@
 
 ## Estructura del Video
 
-### Bloque 1: El contenedor `<div>` y el problema del diseño plano (00:00 - 02:00)
+### Bloque 1: El contenedor `<div>` y el problema del diseño plano
 * **[En pantalla]:** Diapositiva 1 (Comparación visual: una página desordenada a la izquierda vs. una tarjeta de perfil centrada y moderna a la derecha).
 * **[Texto de apoyo visual]:** `<div> = Caja contenedora invisible`
 * **[Narración (Voz en off)]:** 
@@ -22,7 +22,7 @@
 
 ---
 
-### Bloque 2: La analogía del Modelo de Caja (*Box Model*) (02:00 - 04:30)
+### Bloque 2: La analogía del Modelo de Caja (*Box Model*)
 * **[En pantalla]:** Diapositiva 2 (Ilustración didáctica de un cuadro colgado en una pared: Pintura = Contenido, Vidrio protector = *Padding*, Marco de madera = *Border*, Distancia con otros cuadros = *Margin*).
 * **[Texto de apoyo visual]:** `Contenido + Padding (Relleno) + Border (Borde) + Margin (Margen)`
 * **[Narración]:** 
@@ -37,7 +37,7 @@
 > Si aprendes a controlar el `padding`, el `border` y el `margin`, tendrás el control total sobre la apariencia de tu página web."
 ---
 
-### Bloque 3: El gran secreto para centrar en la Web (04:30 - 06:30)
+### Bloque 3: El gran secreto para centrar en la Web
 * **[En pantalla]:** Diapositiva 3 (Gráfico explicativo: Centrar texto interno vs. Centrar la caja completa en la pantalla).
 * **[Texto de apoyo visual]:** 
  * `text-align: center` ➔ Alinea texto e imágenes dentro de la caja
@@ -53,7 +53,7 @@
 
 ---
 
-### Bloque 4: Demostración en vivo en CodePen (06:30 - 10:30)
+### Bloque 4: Demostración en vivo en CodePen
 * **[En pantalla]:** Vista de CodePen (zoom al 150%, panel HTML con la estructura inicial, escribiendo en el panel CSS línea por línea mientras la vista previa se actualiza en vivo).
 * **[Textos flotantes en edición]:** 
  * `.tarjeta = Selector de clase para la caja`
@@ -75,7 +75,7 @@
 
 ---
 
-### Bloque 5: Pausa Interactiva y Cierre (10:30 - 12:00)
+### Bloque 5: Pausa Interactiva y Cierre
 * **[En pantalla]:** Código final en CodePen. Mostrar texto destacado: `¡PAUSA PARA PRACTICAR! (Abre el enlace en la descripción)`.
 * **[Narración]:** 
 > "¡Ahora es tu turno de experimentar con el diseño! En la descripción de este video encontrarás el enlace directo a este proyecto en CodePen.
