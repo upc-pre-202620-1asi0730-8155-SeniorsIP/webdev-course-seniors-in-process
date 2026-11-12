@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-12
+
+### Changed
+
+- Standardized the changelog entries to align with Keep a Changelog conventions and semantic-version release practices.
+- Improved release documentation to better reflect the project’s current scope and maintenance state.
+
+### Fixed
+
+- Corrected the version history ordering and release notes structure for clearer project tracking.
+
 ## [0.1.0] - 2026-11-09
 
 ### Added
