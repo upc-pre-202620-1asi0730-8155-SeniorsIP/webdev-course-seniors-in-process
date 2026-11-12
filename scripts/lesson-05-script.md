@@ -9,7 +9,7 @@
 
 ## Estructura del Video
 
-### Bloque 1: Introducción y Agregando Insignias al Perfil (00:01 - 02:10)
+### Bloque 1: Introducción y Agregando Insignias al Perfil
 * **[En pantalla]:** Mostrar la vista dividida en CodePen con el código inicial.
 * **[Texto de apoyo visual]:** `Lección 5: Proyecto Final y Consejos para Principiantes`
 * **[Narración (Voz en off)]:** 
@@ -21,7 +21,7 @@
 >
 > Ahora bajamos al panel de CSS para darles estilo a insignias. Le damos un `margin-top` de 20 píxeles para separarlo del texto. Y a cada insignia le ponemos un fondo gris oscuro con el código del color. El código de `#313244`, que es el texto amarillo suave, o el `#F9E2AF`, que es un relleno interno con `padding` de 6 píxeles a 14 píxeles y un `border-radius` de 20 píxeles para que tengan forma de píldora."
 
-### Bloque 2: Creando la Sección de Entrada de Blog en HTML (02:10 - 03:06)
+### Bloque 2: Creando la Sección de Entrada de Blog en HTML
 * **[En pantalla]:** Agregar la etiqueta `<article class="entrada-blog">` dentro de `<main>`.
 * **[Texto de apoyo visual]:** `<article> = Contenido independiente (como un post de blog o noticia)`
 * **[Narración]:**
@@ -29,7 +29,7 @@
 >
 > Colocamos todo lo que aprendimos en la lección 2, un subtítulo de etiqueta `<h2>` que diga 'Mi primera entrada de blog: ¡Creé mi web!', un párrafo con la clase `fecha` para indicar cuándo se publicó, un párrafo introductorio y una lista desordenada de etiqueta `<ul>` con tres elementos de la etiqueta `<li>` resumiendo lo que aprendimos en el curso."
 
-### Bloque 3: Estilizando el Blog y el Efecto Interactivo (03:06 - 05:48)
+### Bloque 3: Estilizando el Blog y el Efecto Interactivo
 * **[En pantalla]:** Aplicar estilos CSS a la entrada del blog, incluyendo `border-left` y la pseudoclase `:hover`.
 * **[Texto de apoyo visual]:** `:hover = Cambia el estilo cuando pasas el cursor por encima`
 * **[Narración]:**
@@ -41,7 +41,7 @@
 >
 > La palabra `hover` después de los dos puntos le dice al navegador: cuando el usuario pase el mouse por encima de este botón cambia su color de fondo a un tono más brillante. Miren cómo reacciona el botón al pasar el cursor. Nuestra página web ya está 100% terminada. Como se puede evidenciar, aquí está toda la página web."
 
-### Bloque 4: Pausa Interactiva (05:48 - 06:15)
+### Bloque 4: Pausa Interactiva 
 * **[En pantalla]:** Resaltar el código final en CodePen.
 * **[Texto de apoyo visual]:** `¡PAUSA PARA PRACTICAR! (Abre el enlace en la descripción)`
 * **[Narración]:**
@@ -51,7 +51,7 @@
 > 
 > Cuando termines, dale play de nuevo porque lo que viene te ahorrará horas de frustración en caso de cometas un error."
 
-### Bloque 5: Demostración en Vivo de Errores Comunes (06:15 - 08:25)
+### Bloque 5: Demostración en Vivo de Errores Comunes 
 * **[En pantalla]:** Borrar y restaurar elementos clave del código para forzar fallos visuales.
 * **[Textos flotantes en edición]:** 
   * `[Error #1: Olvidar la etiqueta de cierre (ej. </h1>)]`
@@ -65,7 +65,7 @@
 >
 > El tercer error más común en CSS es confundir el punto de clase con el numeral de ID. Por ejemplo, ¿qué pasa si cambiamos en `.entrada-blog` el punto por el numeral? Como se puede ver, la caja del blog pierde todo su diseño. Pero al corregir el error, vuelve la normalidad. El último y el cuarto error más común son errores de escritura en inglés o faltas de comillas. Por ejemplo, en el `text-align: center` o en el `src=""`. Nunca debe faltar las comillas o la escritura en inglés."
 
-### Bloque 6: Recomendaciones Finales y Cierre (08:25 - 10:55)
+### Bloque 6: Recomendaciones Finales y Cierre 
 * **[En pantalla]:** Mostrar la indentación del código y abrir la documentación web.
 * **[Textos flotantes en edición]:** 
   * `[Buena Práctica: Indentación de código]`

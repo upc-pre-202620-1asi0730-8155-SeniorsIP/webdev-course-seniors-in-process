@@ -9,7 +9,7 @@
 
 ## Estructura del Video y Guion Técnico
 
-### Bloque 1: ¿Qué es CSS y cuál es su sintaxis? (0:00 - 3:00)
+### Bloque 1: ¿Qué es CSS y cuál es su sintaxis?
 
 - **[En pantalla]:** Mostrar nuestra página del Video 2 (en blanco y negro / sin estilos) al lado de la misma página ya estilizada con colores vibrantes y modo oscuro. Posteriormente, hacer zoom y enfocar el panel CSS del editor CodePen.
 - **[Texto de apoyo visual / Código en pantalla]:**
@@ -19,13 +19,14 @@
   }
   ```
 - **[Narración (Voz en off)]:**  
-  > "¡Bienvenidos a la tercera lección! Ya tenemos toda nuestra información en HTML, pero seamos sinceros: todavía parece un documento de texto desactualizado. Aquí entra **CSS** (*Cascading Style Sheets* o Hojas de Estilo en Cascada). 
+
+  >"¡Bienvenidos a la tercera lección! Ya tenemos toda nuestra información en HTML, pero seamos sinceros: todavía parece un documento de texto desactualizado. Aquí entra CSS. 
   > 
   > En CodePen, el panel de CSS ya está conectado automáticamente a nuestro HTML. La regla de oro en CSS es muy fácil: escribimos un **selector** (a quién queremos cambiarle el estilo), abrimos llaves `{ }`, y adentro escribimos la **propiedad** (qué queremos cambiar), dos puntos `:`, el **valor** (cómo lo queremos) y cerramos siempre con punto y coma `;`."
 
 ---
 
-### Bloque 2: Tipos de Selectores: Etiqueta, Clase e ID (3:00 - 6:30)
+### Bloque 2: Tipos de Selectores: Etiqueta, Clase e ID 
 
 - **[En pantalla]:** Mostrar el panel HTML que contiene la estructura inicial:
   ```html
@@ -79,7 +80,7 @@
 
 ---
 
-### Bloque 3: Propiedades de Color, Tipografía y Diseño Básico (6:30 - 10:00)
+### Bloque 3: Propiedades de Color, Tipografía y Diseño Básico
 
 - **[En pantalla]:** Limpiar las reglas de prueba anteriores en el panel CSS para escribir la hoja de estilos definitiva mientras se ven los cambios en tiempo real en la vista previa.
 
@@ -143,16 +144,16 @@
 
 ---
 
-### Bloque 4: Pausa Interactiva (10:00 - 11:00)
+### Bloque 4: Pausa Interactiva
 
 - **[En pantalla]:** Mostrar banner gráfico con el texto:  
-  `⏸️ ¡PAUSA Y EXPERIMENTA! Cambia los colores y el tamaño de letra en CodePen`.
+  `¡PAUSA Y EXPERIMENTA! Cambia los colores y el tamaño de letra en CodePen`.
 - **[Narración]:**  
   > "¡Abre el enlace de CodePen en la descripción! Pausa el video y prueba cambiar el color de `#titulo-principal` por tu color favorito (puedes escribir palabras en inglés como `gold`, `cyan` o `coral`, o usar códigos hexadecimales) y aumenta su `font-size` a `40px`."
 
 ---
 
-### Bloque 5: Reto del Video y Cierre (11:00 - 12:00)
+### Bloque 5: Reto del Video y Cierre
 
 - **[En pantalla]:** Mostrar la interfaz de CodePen resaltando con un recuadro animado la zona del código donde los estudiantes aplicarán el reto.
 - **[Texto de apoyo visual en pantalla]:**
@@ -195,41 +196,68 @@
 ### Panel HTML
 ```html
 <h1 id="titulo-principal">Perfil de Creador Digital</h1>
+
 <p class="destacado">¡Hola! Me apasiona la tecnología, la música y el diseño de mundos virtuales.</p>
+
 <p>Aquí comparto mis aprendizajes creando páginas desde cero con HTML y CSS.</p>
+
+<!-- Reto 1: Implementar p class: mi-tarjeta -->
+<p class="mi-tarjeta">Aquí comparto mis aprendizajes creando páginas desde cero con HTML y CSS.</p>
+
 <h2>Mis Pasatiempos</h2>
+
+
 <ul>
+
   <li>Escuchar música electrónica y rock</li>
+
   <li>Aprender programación web</li>
+
   <li>Dibujo digital</li>
+
 </ul>
+
 ```
 
 ### Panel CSS
 ```css
+
 /* 1. Selector de etiqueta: aplica a todo el cuerpo de la página */
+
 body {
-  background-color: #1e1e2e; /* Color de fondo oscuro */
-  color: #cdd6f4;            /* Color de texto claro */
-  font-family: 'Segoe UI', Tahoma, sans-serif; /* Tipo de fuente */
-  line-height: 1.6;          /* Espaciado entre líneas */
+  background-color: #1e1e2e; 
+  color: #cdd6f4;            
+  font-family: 'Segoe UI', Tahoma, sans-serif; 
+  line-height: 1.6;         
 }
 
 /* 2. Selector de ID (#): aplica a un elemento único */
+
 #titulo-principal {
   color: #89b4fa;
   font-size: 36px;
 }
 
 /* 3. Selector de etiqueta para subtítulos */
+
 h2 {
   color: #f9e2af;
   font-size: 24px;
 }
 
-/* 4. Selector de Clase (.): aplica a elementos con class="destacado" */
+/* 4. Selector de Clase (.): aplica a cualquier elemento con class="destacado" */
+
 .destacado {
   background-color: #313244;
   color: #a6e3a1;
   font-size: 18px;
 }
+
+/* Reto 2: Implementar clase mi-tarjeta */
+.mi-tarjeta {
+  background-color: #45475a;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+```
